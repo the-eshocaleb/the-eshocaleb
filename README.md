@@ -30,7 +30,7 @@
 - 🌱 I’m currently learning Androis and Mobile development <br>
 - 👯 I’m looking to collaborate on innovative data driven products  <br>
 - 💬 Ask me about economics and psychology  <br>
-- 📫 How to reach me: eshocaleb@gmail.com and linkedin.com/caleb-esho <br>
+- 📫 How to reach me: eshocaleb@gmail.com and linkedin.com/in/caleb-esho <br>
 - ⚡ Fun fact: I'm a Brazilian JiuJitsu athlete 🥋 and music enthusiast 🎹 <br>
 
 
