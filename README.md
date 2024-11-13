@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=the-eshocaleb&color=fb4362)
 
-##  Hi there 👋, I'm Caleb ESHO!
-<h3>I am a fullstack developer and I build awesome products with: </h3>
+##  Salut 👋, Je m'appelle Caleb ESHO!
+<h3>Je suis un développeur fullstack et je construis des produits géniaux avec : </h3>
 
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
@@ -24,17 +24,17 @@
 
 </p>
 
-<h3>About me </h3>
+<h3>A propos de moi </h3>
 
-- 🔭 I’m currently building the best fitness app in the world - rigidathelete.com <br>
-- 🌱 I’m currently learning Androis and Mobile development <br>
-- 👯 I’m looking to collaborate on innovative data driven products  <br>
-- 💬 Ask me about economics and psychology  <br>
-- 📫 How to reach me: eshocaleb@gmail.com and linkedin.com/in/caleb-esho <br>
-- ⚡ Fun fact: I'm a Brazilian JiuJitsu athlete 🥋 and music enthusiast 🎹 <br>
+- 🔭 Je suis en train de créer la meilleure application de fitness au monde - rigidathelete.com <br>
+- 🌱 Je suis en train d'apprendre Android et le développement mobile <br>
+- 👯 Je cherche à collaborer à des produits innovants basés sur des données  <br>
+- 💬 Interrogez-moi sur l'économie et la psychologie <br>
+- 📫 Comment me contacter: eshocaleb@gmail.com et linkedin.com/in/caleb-esho <br>
+- ⚡ PS: Je suis un athlète de JiuJitsu brésilien 🥋 et passionné de musique 🎹 <br>
 
 
-<h3>My GitHub contributions summary</h3>
+<h3>Résumé de mes contributions sur GitHub</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=the-eshocaleb&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
